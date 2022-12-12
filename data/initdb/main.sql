@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS proj_man;
+CREATE DATABASE proj_man;
+
